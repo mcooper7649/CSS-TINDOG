@@ -11,7 +11,7 @@ https://www.codeply.com/p/a6Y0L28iUI | Responsive Site
 3. Add Javascript script(s) to your site to make nav dropdown functional.
 *Had trouble with bootrap links, found appropriate script src hrefs*
 
-Responsive Site
+Responsive Site AKA GRID SYSTEM
 
 1. Responsiveness has nothing to do with speed but how the site adjusts depending on the device or viewport.
 2. Bootrap uses Columns to structure the layout. Each Row created, has a maximum of 12 "units"
@@ -27,3 +27,9 @@ Responsive Site Challenge
 2. on Desktop we want 6 col per row
 3. on Tablet we want 4 col per row
 4. on Mobile we want 1 col per row.
+5. Add bg color to "Title" section
+6. Make navbar color lighter
+7. Use bootstrap grid system to have the title and buttons take up 50% width left on desktop. 
+8. Image of the phone take up 50% width on the right on desktop.
+9. On tablet and mobile we want to take up 100% the width. 
+10. Embed Google Fonts: Ubuntu and Monsterrat

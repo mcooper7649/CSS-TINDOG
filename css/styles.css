@@ -1,0 +1,30 @@
+/* FONTS
+
+font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+
+*/
+
+
+/* TAGS */
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-style: 3rem;
+    line-height: 1.5;
+}
+
+/* CLASSES */
+
+.align-right {
+    flex-flow: row-reverse;
+}
+
+
+
+
+/* IDS */
+
+#title {
+    background-color: #ff4c68;
+}
