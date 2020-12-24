@@ -12,24 +12,40 @@ h1 {
     font-family: 'Montserrat', sans-serif;
     font-style: 3rem;
     line-height: 1.5;
+    color: white;
 }
 
 /* CLASSES */
 
 .align-right {
     flex-flow: row-reverse;
+    margin-right: 20%;
+    
 }
 
 .download-btn {
     background-color: #ff4c68;
     border: 1px solid white;
+    margin: 5%;
 }
 
+.row {
+    padding-top: 5%;
+}
 
+.navbar-brand {
+    font-size: 2.5rem;
+}
+
+.nav-item {
+    padding: 0 10%;
+    font-size: 1.2em;
+}
 
 
 /* IDS */
 
 #title {
     background-color: #ff4c68;
+    padding: 5% 10%;
 }

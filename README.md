@@ -42,3 +42,5 @@ Containers and Bootstrap Buttons
 2. Add a Dark and light button to Tindog site
 3. Left Button should be Dark Right button should be Opaque Outline aka light.
 4. Add fontawesome CDN then add APPLE and Android Icons to Buttons.
+5. <i> tag is used for icons but you may also see <span> for the same purpose
+6. 
