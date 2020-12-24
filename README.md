@@ -5,6 +5,8 @@ TinDog Starting Files
 Useful links:
 
 https://www.codeply.com/p/a6Y0L28iUI | Responsive Site 
+https://font.google.com
+https://fontawesome.com | Free Icons!!
 
 1. Take NAV bar we've been working on and add to TinDog Skeleton.
 2. Use Bootstrap to style TinDog skeleton project.
@@ -33,3 +35,10 @@ Responsive Site Challenge
 8. Image of the phone take up 50% width on the right on desktop.
 9. On tablet and mobile we want to take up 100% the width. 
 10. Embed Google Fonts: Ubuntu and Monsterrat
+
+Containers and Bootstrap Buttons
+
+1. Getbootstrap.com>Componenets>buttons
+2. Add a Dark and light button to Tindog site
+3. Left Button should be Dark Right button should be Opaque Outline aka light.
+4. Add fontawesome CDN then add APPLE and Android Icons to Buttons.

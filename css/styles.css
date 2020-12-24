@@ -20,6 +20,11 @@ h1 {
     flex-flow: row-reverse;
 }
 
+.download-btn {
+    background-color: #ff4c68;
+    border: 1px solid white;
+}
+
 
 
 
