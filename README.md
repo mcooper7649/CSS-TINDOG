@@ -43,4 +43,17 @@ Containers and Bootstrap Buttons
 3. Left Button should be Dark Right button should be Opaque Outline aka light.
 4. Add fontawesome CDN then add APPLE and Android Icons to Buttons.
 5. <i> tag is used for icons but you may also see <span> for the same purpose
-6. 
+
+Mini Tindog Challenge
+1. Change the whole websites font to Montserrat.
+2. Change Title section so font color are white. 
+3. Add Ubuntu font-family to navbar-brand
+4. Rotate image using Transform.
+
+2nd Section of Tindog Challenge | Freehand Styling
+
+1. Add font awesome icons and format the text and icons. The icons to choose from font-awesome are: check-circle, bullseye and heart.
+
+2. Make sure the layout is responsive, the icons should take up full width on medium sized screens and below e.g. iPad, phone. But on desktop or large screen devices it should take up a 1/3 of the screen width.
+
+3. Make the icons change colour when you mouse over the icons.
