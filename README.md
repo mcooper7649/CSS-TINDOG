@@ -57,3 +57,11 @@ Mini Tindog Challenge
 2. Make sure the layout is responsive, the icons should take up full width on medium sized screens and below e.g. iPad, phone. But on desktop or large screen devices it should take up a 1/3 of the screen width.
 
 3. Make the icons change colour when you mouse over the icons.
+
+
+Tindog Carousel Lesson
+
+1. Carousel ID and Buttons need to be the same.
+2. Read Carousel on getboostrap.com to see class functionality.
+3. 1 class HAS to be marked active.
+4. Aria-Hidden is for disabling visually impaired screen readers from reading that portion of code.

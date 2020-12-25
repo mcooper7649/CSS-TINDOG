@@ -18,6 +18,11 @@ h1 {
     line-height: 1.5;
 }
 
+h2 {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
 h3 {
     padding: 10px;
 }
@@ -79,16 +84,16 @@ p {
 
 .red-icons {
     color: #ff4c68;
-    font-size: 3rem;
 }
 
 .red-icons:hover {
-    color: tomato;
+    color: #ef8172;
 }
 
 .text-col {
     text-align: center;
     margin: 50px auto;
+    padding: 5%;
 }
 
 /* IDS */
@@ -97,4 +102,35 @@ p {
     background-color: #ff4c68;
     padding: 5% 10%;
     color: white;
+}
+
+/* Testimonial Section */
+
+#testimonials {
+    
+    text-align: center;
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.testimonial-image {
+    border-radius: 50%;
+    width: 10%;
+    margin: 20px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+/* Press Section */
+
+#press {
+    background-color: #ff4c68;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    margin: 20px 20px 50px;
 }
