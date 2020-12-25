@@ -5,14 +5,17 @@ font-family: 'Ubuntu', sans-serif;
 
 */
 
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
 
 /* TAGS */
 
 h1 {
-    font-family: 'Montserrat', sans-serif;
-    font-style: 3rem;
+    
+    font-style: 3.5rem;
     line-height: 1.5;
-    color: white;
 }
 
 /* CLASSES */
@@ -22,6 +25,8 @@ h1 {
     margin-right: 20%;
     
 }
+
+/* Download Buttons */
 
 .download-btn {
     background-color: #ff4c68;
@@ -33,13 +38,32 @@ h1 {
     padding-top: 5%;
 }
 
+/* Navigation Bar */
+
 .navbar-brand {
+    font-family: "ubuntu";
     font-size: 2.5rem;
+    font-weight: bold;
 }
 
 .nav-item {
-    padding: 0 10%;
-    font-size: 1.2em;
+    padding: 0 18px;
+}
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat" ;
+    
+}
+
+.title-image {
+    width: 60%;
+    transform: rotate(25deg);
+    
 }
 
 
@@ -48,4 +72,5 @@ h1 {
 #title {
     background-color: #ff4c68;
     padding: 5% 10%;
+    color: white;
 }
