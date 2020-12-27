@@ -65,3 +65,10 @@ Tindog Carousel Lesson
 2. Read Carousel on getboostrap.com to see class functionality.
 3. 1 class HAS to be marked active.
 4. Aria-Hidden is for disabling visually impaired screen readers from reading that portion of code.
+
+
+Tindog Bootstrap Cards
+1. Use the Bootstrap Pricing Example and add 3 cards to your dogs in the pricing section.
+2. Use Bootstrap grid system to show ALL on desktop, 2 on 1 row on tablet and 100% on last row on tablet. Then on mobile size make them take up 100%.
+
+3. Add Bootstrap pricing buttons using the same styles as our examples.
