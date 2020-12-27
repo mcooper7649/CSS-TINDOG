@@ -85,3 +85,26 @@ Tindog Z-Index
 
 Tindog Z-Index Challenge
 1. Get the Phone image to sit behind the "features" section. 
+
+Media Queries
+1. Why? Ranking Depends on it.
+2. Somesites use seperate sites for mobile. (too much work)
+3. Make it responsive, bootstrap not needed!
+4. @media print, screen, speech are common types. format| @media <type> <feature>
+5. @media (max-width: 900px) {
+    h1 {
+        color: red
+    }
+}
+
+You can modify all CSS using Media Query Breakpoints to make your site responsive. 
+
+6. min-width and max-width flip the breakpoint opposite directions. 
+
+7. You can combine breakpoints too, for example: @media (min-width: 900px) and (max-width: 100px) {
+    h1 {
+        font-size: 60px
+    }
+}
+
+8. Viewport is the size of the screen being displaying. 
