@@ -72,3 +72,16 @@ Tindog Bootstrap Cards
 2. Use Bootstrap grid system to show ALL on desktop, 2 on 1 row on tablet and 100% on last row on tablet. Then on mobile size make them take up 100%.
 
 3. Add Bootstrap pricing buttons using the same styles as our examples.
+
+4. Add Custom Class to to each column. Add padding between the columns and text-align center the text.
+
+Tindog Z-Index
+
+1. Z Index is a layering technique.
+2. Default index on all elements is 0.
+3.  1 is a layer on top of 0 and -1 is layer below.
+4. Z-Index only works with a position specified. IE position:absolute or relative.
+5. if no z-index is specified but position is, the element farther down in the html will sit on top.
+
+Tindog Z-Index Challenge
+1. Get the Phone image to sit behind the "features" section. 

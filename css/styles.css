@@ -75,9 +75,10 @@ p {
 }
 
 .title-image {
-    width: 60%;
+    width: 14%;
     transform: rotate(25deg);
-    
+    position: absolute;
+    right: 30%;
 }
 
 /* Features Section */
@@ -96,12 +97,22 @@ p {
     padding: 5%;
 }
 
+#features {
+    position: relative;
+    z-index: 1;
+    background-color: #fff;
+}
+
 /* IDS */
 
 #title {
     background-color: #ff4c68;
     padding: 5% 10%;
     color: white;
+}
+
+.container-fluid {
+    padding: 3% 15% 7%;
 }
 
 /* Testimonial Section */
