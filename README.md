@@ -108,3 +108,9 @@ You can modify all CSS using Media Query Breakpoints to make your site responsiv
 }
 
 8. Viewport is the size of the screen being displaying. 
+
+Bootstrap Challenge 2
+
+1. In this challenge, you are going to complete the layout and design of our TinDog website. Similar to the previous challenge, below is a specification. Use what you have learnt about CSS and Bootstrap to format the appearance of your website's last two sections to look the same as the specification. The fonts and colours have been specified by you should use your judgement and create the margins/padding by eye.
+
+- Changed CTA section bg color, font-family, font-color, bootstrap the buttons and add icons. Set padding and Margin and Alignment.
