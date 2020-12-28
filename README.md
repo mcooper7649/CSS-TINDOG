@@ -114,3 +114,27 @@ Bootstrap Challenge 2
 1. In this challenge, you are going to complete the layout and design of our TinDog website. Similar to the previous challenge, below is a specification. Use what you have learnt about CSS and Bootstrap to format the appearance of your website's last two sections to look the same as the specification. The fonts and colours have been specified by you should use your judgement and create the margins/padding by eye.
 
 - Changed CTA section bg color, font-family, font-color, bootstrap the buttons and add icons. Set padding and Margin and Alignment.
+
+- Footer Section: Change BG Color to #fff, add Social Icons, Adjust Font color to ubuntu and black color. Adding approprate padding.
+
+
+
+Refactoring Lesson
+
+1. DRY - DO NOT REPEAT YOURSELF.
+2. Prioritize in this order:
+-Readability - Most important that others can understand your code.
+-Modularity  - Clearly broken the code in modules
+-Efficiency - How fast your code runs
+-Length - Shorter Code isn't always the best, if you can't comprehend it.
+3. Using tags to stylize is recommended for more broader changes, like font-family, size, color, but if making specific changes that only apply to that element, you can refactor as a class.
+
+4. Stack tags to apply the same styles for example |    h1, h2, h3, h4 {
+    color: #fff;
+}
+
+5. Refactoring basic tags into classes adds modularity.
+
+6. When refactoring, remember Media Queries are different use cases.
+
+7. Combining Selectors is useful to override previous class inheritance.
