@@ -138,3 +138,41 @@ Refactoring Lesson
 6. When refactoring, remember Media Queries are different use cases.
 
 7. Combining Selectors is useful to override previous class inheritance.
+
+Pick and Mix Selectors Lesson
+
+1. Multiple Selectors (this adds the styles to each tag) 
+
+
+- h1, h2, h3, h4, h5, h6 {
+    font-family: "Monteserrat-Bold";
+}
+
+* the space is optional.
+
+2. Hierarchical Selectors | 1st is from parent 2nd is from child
+    selector1 selector2 {
+
+    }
+
+-  div .container-fluid
+    h1 #title
+        Hello World
+
+
+- In our above example we can use div h1 {color: red} as a Heirarchal Selector.
+- While technically working, its very broad, you may prefer to use  .container-fluid h1 {color: red;} to be more specific.
+
+3. Combine Selectors | Must Occer in the same element no parent selecting
+
+-  selector1.selector2 {
+    color: red;
+}
+
+Or
+
+ selector1#selector2 {
+    color: red;
+}
+
+
