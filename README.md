@@ -176,3 +176,19 @@ Or
 }
 
 
+
+Selector Priority
+
+1.  Within the tag the last preference read is the one that is set.
+- Example   h1 {
+    color: red;
+    color: green;
+}
+
+In this example the h1 tag will be Green.
+
+2. ID has Priority over Class > Class has priority over TAG > Tag is interpreted TOP down.
+
+3. In-line Styles have priority over all external styles. Avoid at all costs. It's a bad practice.
+
+4. Use ID's Sparingly, when possible, classes are best for styling, ID's are best for targeting like with JS.

@@ -44,7 +44,7 @@ p {
 .download-btn {
     background-color: #ff4c68;
     border: 1px solid white;
-    margin: 5%;
+    margin: 5% 0%; 
 }
 
 .dwnload-btn {
@@ -72,7 +72,7 @@ p {
 
 .navbar-brand {
     font-family: "ubuntu";
-    font-size: 2.5rem;
+    font-size: 3.5rem;
     font-weight: bold;
 }
 
